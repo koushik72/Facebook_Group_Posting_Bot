@@ -1,0 +1,10 @@
+.git
+.idea/*
+vendor/*
+# contain sensitive information
+includes/*
+
+# contain sensitive information regarding mail id and password
+phpmailer.php
+
+index.php
